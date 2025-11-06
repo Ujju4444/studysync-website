@@ -14,3 +14,4 @@ It focuses on layout, typography, and modern UI design to demonstrate frontend s
 - CSS (Flexbox, Grid, Media Queries)
 
 ## 🌐 Live Demo
+https://ujju4444.github.io/studysync-website/
